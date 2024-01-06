@@ -38,9 +38,7 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/ozivein/ozivein/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
